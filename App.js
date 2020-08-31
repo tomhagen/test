@@ -23,13 +23,16 @@ import {
   DebugInstructions,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+import Icon from 'react-native-vector-icons/AntDesign';
 
 const App = () => {
   return (
     <SafeAreaView>
       <View>
         <Text>sdas</Text>
+        <Text>This is the test for new feature </Text>
       </View>
+      <Icon name="stepforward" />
     </SafeAreaView>
   );
 };
