@@ -23,7 +23,7 @@ import {
   DebugInstructions,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import Icon from 'react-native-vector-icons/AntDesign';
+
 
 const App = () => {
   return (
